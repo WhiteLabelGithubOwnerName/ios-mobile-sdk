@@ -1,0 +1,16 @@
+{
+  "name": "WalleePayment",
+  "version": "3.0.0",
+  "description": "Wallee Payment SDK => provide payments methods for ios customers",
+  "author": "wallee.com",
+  "homepage": "The url to the project homepage => usually github",
+  "keywords": [
+    "wallee",
+    "payment provider"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NetPumi2/hell-wall-ios-rn.git"
+  }
+}
