@@ -1,10 +1,3 @@
-//
-//  WalleePaymentSdk.h
-//  WalleePaymentSdk
-//
-//  Created by Lukas Salek on 05.10.22.
-//
-
 #import <Foundation/Foundation.h>
 
 

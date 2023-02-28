@@ -20,7 +20,7 @@ public enum ConsoleErrorHandler : Swift.String, Foundation.LocalizedError {
     get
   }
 }
-public protocol WalleePaymenResultObserver : AnyObject {
+public protocol WalleePaymentResultObserver : AnyObject {
   func success(successMessage: WalleePaymentSdk.SuccessResponse)
   func error(errorMessage: WalleePaymentSdk.ErrorResponse)
 }
@@ -69,7 +69,7 @@ public struct ErrorResponse {
   public var data: [Swift.String]?
 }
 public class WalleePaymentSdk {
-  public init(eventObserver: WalleePaymentSdk.WalleePaymenResultObserver)
+  public init(eventObserver: WalleePaymentSdk.WalleePaymentResultObserver)
   public init()
   public func launchPayment(token: Swift.String, rootController: UIKit.UIViewController)
   public func close()

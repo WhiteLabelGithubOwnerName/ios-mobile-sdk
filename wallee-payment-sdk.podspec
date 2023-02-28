@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => package['repository']['url'] }
   s.vendored_frameworks = "Frameworks/*"
   s.resource_bundles = {
-    package['name'] => ["Rescources/*"],
+    package['name'] => ["Resources/*"],
   }
 
   s.library = 'c++'

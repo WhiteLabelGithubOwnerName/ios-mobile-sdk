@@ -1,7 +1,7 @@
 {
   "name": "WalleePayment",
   "version": "3.0.0",
-  "description": "Wallee Payment SDK => provide payments methods for ios customers",
+  "description": "Payment SDK => provide payments methods for ios customers",
   "author": "wallee.com",
   "homepage": "The url to the project homepage => usually github",
   "keywords": [
