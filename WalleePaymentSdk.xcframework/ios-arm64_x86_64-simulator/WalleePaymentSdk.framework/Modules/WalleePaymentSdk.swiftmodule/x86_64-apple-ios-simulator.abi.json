@@ -1446,8 +1446,15 @@
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 229,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "Dictionary",
-      "offset": 250,
+      "offset": 282,
       "length": 3,
       "value": "[]"
     },
@@ -1552,77 +1559,84 @@
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 385,
+      "offset": 397,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 424,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 487,
+      "offset": 503,
       "length": 3,
-      "value": "0.6"
+      "value": "0.5"
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 523,
-      "length": 3,
-      "value": "0.4"
-    },
-    {
-      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
-      "kind": "FloatLiteral",
-      "offset": 631,
-      "length": 3,
-      "value": "0.6"
-    },
-    {
-      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
-      "kind": "FloatLiteral",
-      "offset": 712,
+      "offset": 539,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 748,
+      "offset": 647,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 728,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 764,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 808,
+      "offset": 824,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 842,
+      "offset": 858,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 898,
+      "offset": 914,
       "length": 29,
       "value": "\"wallee.com.WalleePaymentSdk\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 978,
+      "offset": 994,
       "length": 10,
       "value": "\"RNScreen\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1055,
+      "offset": 1071,
       "length": 11,
       "value": "\"rn-screen\""
     },
