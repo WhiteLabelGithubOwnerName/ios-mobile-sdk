@@ -60,7 +60,7 @@ public class WalleePaymentSdk {
 }
 @available(iOS 13.0, *)
 extension SwiftUI.View {
-  public func presentModalView(isPresented: Swift.Bool, token: SwiftUI.Binding<Swift.String>) -> some SwiftUI.View
+  public func presentModalView(isPresented: SwiftUI.Binding<Swift.Bool>, token: SwiftUI.Binding<Swift.String>) -> some SwiftUI.View
   
 }
 extension WalleePaymentSdk.ConsoleErrorHandler : Swift.Equatable {}

@@ -1465,9 +1465,17 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
+                "name": "Binding",
+                "printedName": "SwiftUI.Binding<Swift.Bool>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:7SwiftUI7BindingV"
               },
               {
                 "kind": "TypeNominal",
@@ -1485,8 +1493,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5tokenQrSb_AA7BindingVySSGtF",
-            "mangledName": "$s7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5tokenQrSb_AA7BindingVySSGtF",
+            "usr": "s:7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5tokenQrAA7BindingVySbG_AIySSGtF",
+            "mangledName": "$s7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5tokenQrAA7BindingVySbG_AIySSGtF",
             "moduleName": "WalleePaymentSdk",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Self where Self : SwiftUI.View>",
