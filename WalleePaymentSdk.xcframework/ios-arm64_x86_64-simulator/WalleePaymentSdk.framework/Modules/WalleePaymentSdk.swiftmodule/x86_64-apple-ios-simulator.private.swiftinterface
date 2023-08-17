@@ -5,6 +5,7 @@
 import AVFoundation
 import Combine
 import Foundation
+import PassKit
 import Swift
 import SwiftUI
 import UIKit
@@ -38,6 +39,7 @@ public enum PaymentResultEnum : Swift.String {
   case CANCELED
   case FAILED
   case COMPLETED
+  case TIMEOUT
   case UNCLEAR
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
@@ -54,14 +56,24 @@ public class WalleePaymentSdk {
   public func launchPayment(token: Swift.String, rootController: UIKit.UIViewController)
   public func close()
   public func setLightTheme(light: Foundation.NSMutableDictionary)
+  public func setAnimation(type: AnimationEnum)
   public func setDarkTheme(dark: Foundation.NSMutableDictionary)
   public func setCustomTheme(custom: Foundation.NSMutableDictionary?, baseTheme: ThemeEnum)
   @objc deinit
 }
 @available(iOS 13.0, *)
 extension SwiftUI.View {
-  public func presentModalView(isPresented: SwiftUI.Binding<Swift.Bool>, token: SwiftUI.Binding<Swift.String>) -> some SwiftUI.View
+  public func presentModalView(isPresented: SwiftUI.Binding<Swift.Bool>, token: SwiftUI.Binding<Swift.String>, animationType: AnimationEnum) -> some SwiftUI.View
   
+}
+public enum AnimationEnum : Swift.String {
+  case BUBBLE
+  case SLIDE
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
 }
 extension ConsoleErrorHandler : Swift.Equatable {}
 extension ConsoleErrorHandler : Swift.Hashable {}
@@ -72,3 +84,6 @@ extension ThemeEnum : Swift.RawRepresentable {}
 extension PaymentResultEnum : Swift.Equatable {}
 extension PaymentResultEnum : Swift.Hashable {}
 extension PaymentResultEnum : Swift.RawRepresentable {}
+extension AnimationEnum : Swift.Equatable {}
+extension AnimationEnum : Swift.Hashable {}
+extension AnimationEnum : Swift.RawRepresentable {}
