@@ -541,6 +541,26 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "PaymentResultEnum",
         "printedName": "PaymentResultEnum",
@@ -1547,6 +1567,27 @@
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVersion",
+            "printedName": "getVersion()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16WalleePaymentSdkAAC10getVersionSSyF",
+            "mangledName": "$s16WalleePaymentSdkAAC10getVersionSSyF",
+            "moduleName": "WalleePaymentSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -1843,14 +1884,22 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "AnimationEnum",
-                "printedName": "WalleePaymentSdk.AnimationEnum",
-                "usr": "s:16WalleePaymentSdk13AnimationEnumO"
+                "name": "Optional",
+                "printedName": "WalleePaymentSdk.AnimationEnum?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnimationEnum",
+                    "printedName": "WalleePaymentSdk.AnimationEnum",
+                    "usr": "s:16WalleePaymentSdk13AnimationEnumO"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5token13animationTypeQrAA7BindingVySbG_AJySSGAD13AnimationEnumOtF",
-            "mangledName": "$s7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5token13animationTypeQrAA7BindingVySbG_AJySSGAD13AnimationEnumOtF",
+            "usr": "s:7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5token13animationTypeQrAA7BindingVySbG_AJySSGAD13AnimationEnumOSgtF",
+            "mangledName": "$s7SwiftUI4ViewP16WalleePaymentSdkE012presentModalC011isPresented5token13animationTypeQrAA7BindingVySbG_AJySSGAD13AnimationEnumOSgtF",
             "moduleName": "WalleePaymentSdk",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Self where Self : SwiftUI.View>",
