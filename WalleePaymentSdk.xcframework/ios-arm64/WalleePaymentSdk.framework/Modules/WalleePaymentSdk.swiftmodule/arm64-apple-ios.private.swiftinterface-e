@@ -40,7 +40,7 @@ public enum PaymentResultEnum : Swift.String {
   case FAILED
   case COMPLETED
   case TIMEOUT
-  case UNCLEAR
+  case PENDING
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -59,12 +59,11 @@ public class WalleePaymentSdk {
   public func setAnimation(type: WalleePaymentSdk.AnimationEnum)
   public func setDarkTheme(dark: Foundation.NSMutableDictionary)
   public func setCustomTheme(custom: Foundation.NSMutableDictionary?, baseTheme: WalleePaymentSdk.ThemeEnum)
-  public func getVersion() -> Swift.String
   @objc deinit
 }
 @available(iOS 13.0, *)
 extension SwiftUI.View {
-  public func presentModalView(isPresented: SwiftUI.Binding<Swift.Bool>, token: SwiftUI.Binding<Swift.String>, animationType: WalleePaymentSdk.AnimationEnum?) -> some SwiftUI.View
+  public func presentModalView(isPresented: SwiftUI.Binding<Swift.Bool>, token: SwiftUI.Binding<Swift.String>, animationType: WalleePaymentSdk.AnimationEnum) -> some SwiftUI.View
   
 }
 public enum AnimationEnum : Swift.String {
