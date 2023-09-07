@@ -33,10 +33,6 @@
 	<dict>
 		<key>Headers/TWAppConfiguration.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DSkmQDSTOH7vmZ7a2/eX8LhvYs8=
-			</data>
 			<key>hash2</key>
 			<data>
 			UZglz2+/owgFqGwFHrXO29hJvK62YBP1Ix4Eu+5WX4g=
@@ -44,10 +40,6 @@
 		</dict>
 		<key>Headers/TWError.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6pX/GiiI6XJSqFduF7I+Kvx9OY0=
-			</data>
 			<key>hash2</key>
 			<data>
 			D3UQlh5xxOKK/QBeLm7J05Tu9YnlUzhnzz6besV/WJc=
@@ -55,10 +47,6 @@
 		</dict>
 		<key>Headers/Twint.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3ZJDxjCTa14RMQ78fzVzxchSeHc=
-			</data>
 			<key>hash2</key>
 			<data>
 			EoeClcuZUopdLWS2K9vRQvo3wXNvNRpxN8N3ni6pMKk=
@@ -66,10 +54,6 @@
 		</dict>
 		<key>Headers/TwintSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wLgbfhPAcgW5EjHPjhC25VJBvsI=
-			</data>
 			<key>hash2</key>
 			<data>
 			G7gFCdFrZOw/cDUWUim0akGEdXt5Id7oI4154BqwCyM=
@@ -77,10 +61,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5ZbYUxhNV0Hts/iokXYnAaGPnv4=
-			</data>
 			<key>hash2</key>
 			<data>
 			zuqO/fyeE26ePd6UAKg1snwfLC1ZMAMtaFR8CUa0EvE=
