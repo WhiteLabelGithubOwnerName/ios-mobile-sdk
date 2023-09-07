@@ -542,6 +542,20 @@
       },
       {
         "kind": "Import",
+        "name": "TwintSDK",
+        "printedName": "TwintSDK",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk"
+      },
+      {
+        "kind": "Import",
         "name": "React",
         "printedName": "React",
         "declKind": "Import",
@@ -715,8 +729,8 @@
           },
           {
             "kind": "Var",
-            "name": "PENDING",
-            "printedName": "PENDING",
+            "name": "UNCLEAR",
+            "printedName": "UNCLEAR",
             "children": [
               {
                 "kind": "TypeFunc",
@@ -746,8 +760,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:16WalleePaymentSdk0B10ResultEnumO7PENDINGyA2CmF",
-            "mangledName": "$s16WalleePaymentSdk0B10ResultEnumO7PENDINGyA2CmF",
+            "usr": "s:16WalleePaymentSdk0B10ResultEnumO7UNCLEARyA2CmF",
+            "mangledName": "$s16WalleePaymentSdk0B10ResultEnumO7UNCLEARyA2CmF",
             "moduleName": "WalleePaymentSdk"
           },
           {
@@ -1269,6 +1283,26 @@
       },
       {
         "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1368,6 +1402,35 @@
         "name": "WalleePaymentSdk",
         "printedName": "WalleePaymentSdk",
         "children": [
+          {
+            "kind": "Function",
+            "name": "onHandleOpenURL",
+            "printedName": "onHandleOpenURL(url:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16WalleePaymentSdkAAC15onHandleOpenURL3urlSb10Foundation0G0V_tFZ",
+            "mangledName": "$s16WalleePaymentSdkAAC15onHandleOpenURL3urlSb10Foundation0G0V_tFZ",
+            "moduleName": "WalleePaymentSdk",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
           {
             "kind": "Constructor",
             "name": "init",
@@ -1965,6 +2028,97 @@
       "value": "\"dark\""
     },
     {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 265,
+      "length": 15,
+      "value": "\"twint-payment\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 380,
+      "length": 14,
+      "value": "\"twint_result\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 436,
+      "length": 27,
+      "value": "\"TWINT_EVENT_LISTENER_NAME\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 14,
+      "value": "\"TW_B_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 566,
+      "length": 12,
+      "value": "\"TW_B_ERROR\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 608,
+      "length": 24,
+      "value": "\"TW_B_APP_NOT_INSTALLED\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 661,
+      "length": 26,
+      "value": "\"TW_T_CODE_FORMAT_INVALID\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 27,
+      "value": "\"TW_IOS_SCHEMA_URL_INVALID\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 14,
+      "value": "\"TW_B_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 566,
+      "length": 12,
+      "value": "\"TW_B_ERROR\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 608,
+      "length": 24,
+      "value": "\"TW_B_APP_NOT_INSTALLED\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 661,
+      "length": 26,
+      "value": "\"TW_T_CODE_FORMAT_INVALID\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 27,
+      "value": "\"TW_IOS_SCHEMA_URL_INVALID\""
+    },
+    {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 168,
@@ -1997,7 +2151,7 @@
       "kind": "StringLiteral",
       "offset": 287,
       "length": 9,
-      "value": "\"PENDING\""
+      "value": "\"UNCLEAR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/PaymentResult.swift",
@@ -2032,7 +2186,7 @@
       "kind": "StringLiteral",
       "offset": 287,
       "length": 9,
-      "value": "\"PENDING\""
+      "value": "\"UNCLEAR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
@@ -2187,6 +2341,13 @@
       "offset": 821,
       "length": 11,
       "value": "\"rn-screen\""
+    },
+    {
+      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/GlobalEventSender\/GlobalEventSenderModule.swift",
+      "kind": "StringLiteral",
+      "offset": 190,
+      "length": 23,
+      "value": "\"WalleePaymentSdk.GlobalEventSenderModule\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",

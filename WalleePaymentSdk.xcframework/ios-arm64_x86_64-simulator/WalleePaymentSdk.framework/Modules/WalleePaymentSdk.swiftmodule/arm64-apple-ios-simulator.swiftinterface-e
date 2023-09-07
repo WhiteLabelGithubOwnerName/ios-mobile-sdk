@@ -8,6 +8,7 @@ import Foundation
 import PassKit
 import Swift
 import SwiftUI
+import TwintSDK
 import UIKit
 @_exported import WalleePaymentSdk
 import _Concurrency
@@ -40,7 +41,7 @@ public enum PaymentResultEnum : Swift.String {
   case FAILED
   case COMPLETED
   case TIMEOUT
-  case PENDING
+  case UNCLEAR
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -52,6 +53,7 @@ public struct PaymentResult {
   public var message: Swift.String?
 }
 public class WalleePaymentSdk {
+  public static func onHandleOpenURL(url: Foundation.URL) -> Swift.Bool
   public init(eventObserver: WalleePaymentSdk.WalleePaymentResultObserver)
   public func launchPayment(token: Swift.String, rootController: UIKit.UIViewController)
   public func close()
