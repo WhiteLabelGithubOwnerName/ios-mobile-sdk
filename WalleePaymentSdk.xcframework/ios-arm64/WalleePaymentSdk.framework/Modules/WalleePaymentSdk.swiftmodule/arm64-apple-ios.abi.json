@@ -729,8 +729,8 @@
           },
           {
             "kind": "Var",
-            "name": "UNCLEAR",
-            "printedName": "UNCLEAR",
+            "name": "PENDING",
+            "printedName": "PENDING",
             "children": [
               {
                 "kind": "TypeFunc",
@@ -760,8 +760,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:16WalleePaymentSdk0B10ResultEnumO7UNCLEARyA2CmF",
-            "mangledName": "$s16WalleePaymentSdk0B10ResultEnumO7UNCLEARyA2CmF",
+            "usr": "s:16WalleePaymentSdk0B10ResultEnumO7PENDINGyA2CmF",
+            "mangledName": "$s16WalleePaymentSdk0B10ResultEnumO7PENDINGyA2CmF",
             "moduleName": "WalleePaymentSdk"
           },
           {
@@ -2151,7 +2151,7 @@
       "kind": "StringLiteral",
       "offset": 287,
       "length": 9,
-      "value": "\"UNCLEAR\""
+      "value": "\"PENDING\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/PaymentResult.swift",
@@ -2186,7 +2186,7 @@
       "kind": "StringLiteral",
       "offset": 287,
       "length": 9,
-      "value": "\"UNCLEAR\""
+      "value": "\"PENDING\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",

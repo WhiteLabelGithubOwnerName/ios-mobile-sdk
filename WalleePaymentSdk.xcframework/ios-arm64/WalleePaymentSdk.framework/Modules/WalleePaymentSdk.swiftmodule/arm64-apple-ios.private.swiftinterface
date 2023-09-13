@@ -41,7 +41,7 @@ public enum PaymentResultEnum : Swift.String {
   case FAILED
   case COMPLETED
   case TIMEOUT
-  case UNCLEAR
+  case PENDING
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
