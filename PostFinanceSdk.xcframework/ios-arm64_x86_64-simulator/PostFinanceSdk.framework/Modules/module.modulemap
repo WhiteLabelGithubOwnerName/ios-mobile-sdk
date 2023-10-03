@@ -1,0 +1,11 @@
+framework module PostFinanceSdk {
+  umbrella header "PostFinanceSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module PostFinanceSdk.Swift {
+  header "PostFinanceSdk-Swift.h"
+  requires objc
+}
