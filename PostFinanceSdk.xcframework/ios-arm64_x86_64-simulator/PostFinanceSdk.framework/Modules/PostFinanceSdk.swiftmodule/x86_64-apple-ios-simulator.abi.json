@@ -2325,20 +2325,20 @@
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 662,
-      "length": 31,
-      "value": "\"ch.postfinance.PostFinanceSdk\""
+      "length": 27,
+      "value": "\"wallee.com.PostFinanceSdk\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 744,
+      "offset": 740,
       "length": 10,
       "value": "\"RNScreen\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 821,
+      "offset": 817,
       "length": 11,
       "value": "\"rn-screen\""
     },
