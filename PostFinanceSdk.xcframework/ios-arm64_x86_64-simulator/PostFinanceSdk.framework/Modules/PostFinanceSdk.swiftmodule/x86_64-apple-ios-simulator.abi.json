@@ -1965,588 +1965,588 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
       "offset": 158,
       "length": 48,
       "value": "\"postfinance-payment-sdk-close-app-notification\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
       "kind": "BooleanLiteral",
       "offset": 234,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
       "kind": "Dictionary",
       "offset": 287,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/ConsoleErrorHandler.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/ConsoleErrorHandler.swift",
       "kind": "StringLiteral",
       "offset": 106,
       "length": 25,
       "value": "\"Token can not be empty!\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/ConsoleErrorHandler.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/ConsoleErrorHandler.swift",
       "kind": "StringLiteral",
       "offset": 106,
       "length": 25,
       "value": "\"Token can not be empty!\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
       "kind": "StringLiteral",
       "offset": 69,
       "length": 7,
       "value": "\"light\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
       "kind": "StringLiteral",
       "offset": 93,
       "length": 6,
       "value": "\"dark\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
       "kind": "StringLiteral",
       "offset": 69,
       "length": 7,
       "value": "\"light\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
       "kind": "StringLiteral",
       "offset": 93,
       "length": 6,
       "value": "\"dark\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 15,
       "value": "\"twint-payment\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 378,
       "length": 14,
       "value": "\"twint_result\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 434,
       "length": 27,
       "value": "\"TWINT_EVENT_LISTENER_NAME\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 528,
       "length": 14,
       "value": "\"TW_B_SUCCESS\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 564,
       "length": 12,
       "value": "\"TW_B_ERROR\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 606,
       "length": 24,
       "value": "\"TW_B_APP_NOT_INSTALLED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 659,
       "length": 26,
       "value": "\"TW_T_CODE_FORMAT_INVALID\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 27,
       "value": "\"TW_IOS_SCHEMA_URL_INVALID\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 528,
       "length": 14,
       "value": "\"TW_B_SUCCESS\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 564,
       "length": 12,
       "value": "\"TW_B_ERROR\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 606,
       "length": 24,
       "value": "\"TW_B_APP_NOT_INSTALLED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 659,
       "length": 26,
       "value": "\"TW_T_CODE_FORMAT_INVALID\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 27,
       "value": "\"TW_IOS_SCHEMA_URL_INVALID\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 166,
       "length": 10,
       "value": "\"CANCELED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 8,
       "value": "\"FAILED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 225,
       "length": 11,
       "value": "\"COMPLETED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 9,
       "value": "\"TIMEOUT\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 285,
       "length": 9,
       "value": "\"PENDING\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 166,
       "length": 10,
       "value": "\"CANCELED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 8,
       "value": "\"FAILED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 225,
       "length": 11,
       "value": "\"COMPLETED\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 9,
       "value": "\"TIMEOUT\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
       "kind": "StringLiteral",
       "offset": 285,
       "length": 9,
       "value": "\"PENDING\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalPresentationController.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
       "offset": 494,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalPresentationController.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
       "offset": 500,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalTransitioningDelegate.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalTransitioningDelegate.swift",
       "kind": "BooleanLiteral",
       "offset": 254,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalTransitioningDelegate.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalTransitioningDelegate.swift",
       "kind": "StringLiteral",
       "offset": 148,
       "length": 26,
       "value": "\"PostFinanceSdk.ModalTransitioningDelegate\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
       "kind": "StringLiteral",
       "offset": 418,
       "length": 4,
       "value": "\"CH\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
       "kind": "StringLiteral",
       "offset": 454,
       "length": 5,
       "value": "\"CHF\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
       "kind": "StringLiteral",
       "offset": 497,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
       "kind": "StringLiteral",
       "offset": 529,
       "length": 7,
       "value": "\"Total\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 309,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 367,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 373,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 436,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 440,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 492,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 496,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 551,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 555,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "FloatLiteral",
       "offset": 601,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 662,
       "length": 27,
       "value": "\"wallee.com.PostFinanceSdk\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 740,
       "length": 10,
       "value": "\"RNScreen\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 817,
       "length": 11,
       "value": "\"rn-screen\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/GlobalEventSender\/GlobalEventSenderModule.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/GlobalEventSender\/GlobalEventSenderModule.swift",
       "kind": "StringLiteral",
       "offset": 188,
       "length": 23,
       "value": "\"PostFinanceSdk.GlobalEventSenderModule\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/Theme.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/Theme.swift",
       "kind": "BooleanLiteral",
       "offset": 430,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
       "kind": "StringLiteral",
       "offset": 74,
       "length": 8,
       "value": "\"bubble\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
       "kind": "StringLiteral",
       "offset": 100,
       "length": 7,
       "value": "\"slide\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
       "kind": "StringLiteral",
       "offset": 74,
       "length": 8,
       "value": "\"bubble\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
       "kind": "StringLiteral",
       "offset": 100,
       "length": 7,
       "value": "\"slide\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 252,
       "length": 16,
       "value": "\"Orange sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 10,
       "value": "\"sweater1\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 296,
       "length": 2,
       "value": "54"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 18,
       "value": "\"Red wine sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 361,
       "length": 10,
       "value": "\"sweater2\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 380,
       "length": 2,
       "value": "89"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 418,
       "length": 14,
       "value": "\"Sand sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 441,
       "length": 10,
       "value": "\"sweater3\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 460,
       "length": 2,
       "value": "79"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 498,
       "length": 13,
       "value": "\"Sea sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 520,
       "length": 10,
       "value": "\"sweater4\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 539,
       "length": 2,
       "value": "94"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 577,
       "length": 15,
       "value": "\"Cream sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 601,
       "length": 10,
       "value": "\"sweater5\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 620,
       "length": 2,
       "value": "99"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 658,
       "length": 15,
       "value": "\"Beige sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 682,
       "length": 10,
       "value": "\"sweater6\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 701,
       "length": 2,
       "value": "65"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 739,
       "length": 14,
       "value": "\"Grey sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 762,
       "length": 10,
       "value": "\"sweater7\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 781,
       "length": 2,
       "value": "54"
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 819,
       "length": 14,
       "value": "\"Mink sweater\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "StringLiteral",
       "offset": 842,
       "length": 10,
       "value": "\"sweater8\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
       "kind": "IntegerLiteral",
       "offset": 861,
       "length": 2,
