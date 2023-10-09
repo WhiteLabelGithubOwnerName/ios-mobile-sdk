@@ -1,0 +1,2556 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ConsoleErrorHandler",
+        "printedName": "ConsoleErrorHandler",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "MissingTokenValue",
+            "printedName": "MissingTokenValue",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.ConsoleErrorHandler.Type) -> PostFinanceSdk.ConsoleErrorHandler",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ConsoleErrorHandler",
+                    "printedName": "PostFinanceSdk.ConsoleErrorHandler",
+                    "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.ConsoleErrorHandler.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ConsoleErrorHandler",
+                        "printedName": "PostFinanceSdk.ConsoleErrorHandler",
+                        "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO17MissingTokenValueyA2CmF",
+            "mangledName": "$s14PostFinanceSdk19ConsoleErrorHandlerO17MissingTokenValueyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Var",
+            "name": "errorDescription",
+            "printedName": "errorDescription",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO16errorDescriptionSSSgvp",
+            "mangledName": "$s14PostFinanceSdk19ConsoleErrorHandlerO16errorDescriptionSSSgvp",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO16errorDescriptionSSSgvg",
+                "mangledName": "$s14PostFinanceSdk19ConsoleErrorHandlerO16errorDescriptionSSSgvg",
+                "moduleName": "PostFinanceSdk",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PostFinanceSdk.ConsoleErrorHandler?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ConsoleErrorHandler",
+                    "printedName": "PostFinanceSdk.ConsoleErrorHandler",
+                    "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO8rawValueACSgSS_tcfc",
+            "mangledName": "$s14PostFinanceSdk19ConsoleErrorHandlerO8rawValueACSgSS_tcfc",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO8rawValueSSvp",
+            "mangledName": "$s14PostFinanceSdk19ConsoleErrorHandlerO8rawValueSSvp",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO8rawValueSSvg",
+                "mangledName": "$s14PostFinanceSdk19ConsoleErrorHandlerO8rawValueSSvg",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14PostFinanceSdk19ConsoleErrorHandlerO",
+        "mangledName": "$s14PostFinanceSdk19ConsoleErrorHandlerO",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "LocalizedError",
+            "printedName": "LocalizedError",
+            "usr": "s:10Foundation14LocalizedErrorP",
+            "mangledName": "$s10Foundation14LocalizedErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PostFinanceResultObserver",
+        "printedName": "PostFinanceResultObserver",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "paymentResult",
+            "printedName": "paymentResult(paymentResultMessage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentResult",
+                "printedName": "PostFinanceSdk.PaymentResult",
+                "usr": "s:14PostFinanceSdk13PaymentResultV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdk0aB14ResultObserverP07paymentD00fD7MessageyAA07PaymentD0V_tF",
+            "mangledName": "$s14PostFinanceSdk0aB14ResultObserverP07paymentD00fD7MessageyAA07PaymentD0V_tF",
+            "moduleName": "PostFinanceSdk",
+            "genericSig": "<τ_0_0 where τ_0_0 : PostFinanceSdk.PostFinanceResultObserver>",
+            "sugared_genericSig": "<Self where Self : PostFinanceSdk.PostFinanceResultObserver>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:14PostFinanceSdk0aB14ResultObserverP",
+        "mangledName": "$s14PostFinanceSdk0aB14ResultObserverP",
+        "moduleName": "PostFinanceSdk",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ThemeEnum",
+        "printedName": "ThemeEnum",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "LIGHT",
+            "printedName": "LIGHT",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.ThemeEnum.Type) -> PostFinanceSdk.ThemeEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ThemeEnum",
+                    "printedName": "PostFinanceSdk.ThemeEnum",
+                    "usr": "s:14PostFinanceSdk9ThemeEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.ThemeEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ThemeEnum",
+                        "printedName": "PostFinanceSdk.ThemeEnum",
+                        "usr": "s:14PostFinanceSdk9ThemeEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk9ThemeEnumO5LIGHTyA2CmF",
+            "mangledName": "$s14PostFinanceSdk9ThemeEnumO5LIGHTyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Var",
+            "name": "DARK",
+            "printedName": "DARK",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.ThemeEnum.Type) -> PostFinanceSdk.ThemeEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ThemeEnum",
+                    "printedName": "PostFinanceSdk.ThemeEnum",
+                    "usr": "s:14PostFinanceSdk9ThemeEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.ThemeEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ThemeEnum",
+                        "printedName": "PostFinanceSdk.ThemeEnum",
+                        "usr": "s:14PostFinanceSdk9ThemeEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk9ThemeEnumO4DARKyA2CmF",
+            "mangledName": "$s14PostFinanceSdk9ThemeEnumO4DARKyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PostFinanceSdk.ThemeEnum?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ThemeEnum",
+                    "printedName": "PostFinanceSdk.ThemeEnum",
+                    "usr": "s:14PostFinanceSdk9ThemeEnumO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14PostFinanceSdk9ThemeEnumO8rawValueACSgSS_tcfc",
+            "mangledName": "$s14PostFinanceSdk9ThemeEnumO8rawValueACSgSS_tcfc",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14PostFinanceSdk9ThemeEnumO8rawValueSSvp",
+            "mangledName": "$s14PostFinanceSdk9ThemeEnumO8rawValueSSvp",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk9ThemeEnumO8rawValueSSvg",
+                "mangledName": "$s14PostFinanceSdk9ThemeEnumO8rawValueSSvg",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14PostFinanceSdk9ThemeEnumO",
+        "mangledName": "$s14PostFinanceSdk9ThemeEnumO",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TwintSDK",
+        "printedName": "TwintSDK",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PaymentResultEnum",
+        "printedName": "PaymentResultEnum",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "CANCELED",
+            "printedName": "CANCELED",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.PaymentResultEnum.Type) -> PostFinanceSdk.PaymentResultEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentResultEnum",
+                        "printedName": "PostFinanceSdk.PaymentResultEnum",
+                        "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk17PaymentResultEnumO8CANCELEDyA2CmF",
+            "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO8CANCELEDyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Var",
+            "name": "FAILED",
+            "printedName": "FAILED",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.PaymentResultEnum.Type) -> PostFinanceSdk.PaymentResultEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentResultEnum",
+                        "printedName": "PostFinanceSdk.PaymentResultEnum",
+                        "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk17PaymentResultEnumO6FAILEDyA2CmF",
+            "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO6FAILEDyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Var",
+            "name": "COMPLETED",
+            "printedName": "COMPLETED",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.PaymentResultEnum.Type) -> PostFinanceSdk.PaymentResultEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentResultEnum",
+                        "printedName": "PostFinanceSdk.PaymentResultEnum",
+                        "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk17PaymentResultEnumO9COMPLETEDyA2CmF",
+            "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO9COMPLETEDyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Var",
+            "name": "TIMEOUT",
+            "printedName": "TIMEOUT",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.PaymentResultEnum.Type) -> PostFinanceSdk.PaymentResultEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentResultEnum",
+                        "printedName": "PostFinanceSdk.PaymentResultEnum",
+                        "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk17PaymentResultEnumO7TIMEOUTyA2CmF",
+            "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO7TIMEOUTyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Var",
+            "name": "PENDING",
+            "printedName": "PENDING",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.PaymentResultEnum.Type) -> PostFinanceSdk.PaymentResultEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentResultEnum",
+                        "printedName": "PostFinanceSdk.PaymentResultEnum",
+                        "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk17PaymentResultEnumO7PENDINGyA2CmF",
+            "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO7PENDINGyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PostFinanceSdk.PaymentResultEnum?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14PostFinanceSdk17PaymentResultEnumO8rawValueACSgSS_tcfc",
+            "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO8rawValueACSgSS_tcfc",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14PostFinanceSdk17PaymentResultEnumO8rawValueSSvp",
+            "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO8rawValueSSvp",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk17PaymentResultEnumO8rawValueSSvg",
+                "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO8rawValueSSvg",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14PostFinanceSdk17PaymentResultEnumO",
+        "mangledName": "$s14PostFinanceSdk17PaymentResultEnumO",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PaymentResult",
+        "printedName": "PaymentResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "code",
+            "printedName": "code",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentResultEnum",
+                "printedName": "PostFinanceSdk.PaymentResultEnum",
+                "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvp",
+            "mangledName": "$s14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvp",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvg",
+                "mangledName": "$s14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvg",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentResultEnum",
+                    "printedName": "PostFinanceSdk.PaymentResultEnum",
+                    "usr": "s:14PostFinanceSdk17PaymentResultEnumO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvs",
+                "mangledName": "$s14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvs",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvM",
+                "mangledName": "$s14PostFinanceSdk13PaymentResultV4codeAA0dE4EnumOvM",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "message",
+            "printedName": "message",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14PostFinanceSdk13PaymentResultV7messageSSSgvp",
+            "mangledName": "$s14PostFinanceSdk13PaymentResultV7messageSSSgvp",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk13PaymentResultV7messageSSSgvg",
+                "mangledName": "$s14PostFinanceSdk13PaymentResultV7messageSSSgvg",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk13PaymentResultV7messageSSSgvs",
+                "mangledName": "$s14PostFinanceSdk13PaymentResultV7messageSSSgvs",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk13PaymentResultV7messageSSSgvM",
+                "mangledName": "$s14PostFinanceSdk13PaymentResultV7messageSSSgvM",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14PostFinanceSdk13PaymentResultV",
+        "mangledName": "$s14PostFinanceSdk13PaymentResultV",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PassKit",
+        "printedName": "PassKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PassKit",
+        "printedName": "PassKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PassKit",
+        "printedName": "PassKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PostFinanceSdk",
+        "printedName": "PostFinanceSdk",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onHandleOpenURL",
+            "printedName": "onHandleOpenURL(url:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdkAAC15onHandleOpenURL3urlSb10Foundation0G0V_tFZ",
+            "mangledName": "$s14PostFinanceSdkAAC15onHandleOpenURL3urlSb10Foundation0G0V_tFZ",
+            "moduleName": "PostFinanceSdk",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(eventObserver:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PostFinanceSdk",
+                "printedName": "PostFinanceSdk.PostFinanceSdk",
+                "usr": "s:14PostFinanceSdkAAC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PostFinanceResultObserver",
+                "printedName": "PostFinanceSdk.PostFinanceResultObserver",
+                "usr": "s:14PostFinanceSdk0aB14ResultObserverP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14PostFinanceSdkAAC13eventObserverAbA0ab6ResultE0_p_tcfc",
+            "mangledName": "$s14PostFinanceSdkAAC13eventObserverAbA0ab6ResultE0_p_tcfc",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "launchPayment",
+            "printedName": "launchPayment(token:rootController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdkAAC13launchPayment5token14rootControllerySS_So06UIViewH0CtF",
+            "mangledName": "$s14PostFinanceSdkAAC13launchPayment5token14rootControllerySS_So06UIViewH0CtF",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "close",
+            "printedName": "close()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdkAAC5closeyyF",
+            "mangledName": "$s14PostFinanceSdkAAC5closeyyF",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setLightTheme",
+            "printedName": "setLightTheme(light:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSMutableDictionary",
+                "printedName": "Foundation.NSMutableDictionary",
+                "usr": "c:objc(cs)NSMutableDictionary"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdkAAC13setLightTheme5lightySo19NSMutableDictionaryC_tF",
+            "mangledName": "$s14PostFinanceSdkAAC13setLightTheme5lightySo19NSMutableDictionaryC_tF",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAnimation",
+            "printedName": "setAnimation(type:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AnimationEnum",
+                "printedName": "PostFinanceSdk.AnimationEnum",
+                "usr": "s:14PostFinanceSdk13AnimationEnumO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdkAAC12setAnimation4typeyAA0E4EnumO_tF",
+            "mangledName": "$s14PostFinanceSdkAAC12setAnimation4typeyAA0E4EnumO_tF",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setDarkTheme",
+            "printedName": "setDarkTheme(dark:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSMutableDictionary",
+                "printedName": "Foundation.NSMutableDictionary",
+                "usr": "c:objc(cs)NSMutableDictionary"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdkAAC12setDarkTheme4darkySo19NSMutableDictionaryC_tF",
+            "mangledName": "$s14PostFinanceSdkAAC12setDarkTheme4darkySo19NSMutableDictionaryC_tF",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCustomTheme",
+            "printedName": "setCustomTheme(custom:baseTheme:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.NSMutableDictionary?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSMutableDictionary",
+                    "printedName": "Foundation.NSMutableDictionary",
+                    "usr": "c:objc(cs)NSMutableDictionary"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ThemeEnum",
+                "printedName": "PostFinanceSdk.ThemeEnum",
+                "usr": "s:14PostFinanceSdk9ThemeEnumO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14PostFinanceSdkAAC14setCustomTheme6custom04baseF0ySo19NSMutableDictionaryCSg_AA0F4EnumOtF",
+            "mangledName": "$s14PostFinanceSdkAAC14setCustomTheme6custom04baseF0ySo19NSMutableDictionaryCSg_AA0F4EnumOtF",
+            "moduleName": "PostFinanceSdk",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14PostFinanceSdkAAC",
+        "mangledName": "$s14PostFinanceSdkAAC",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AnimationEnum",
+        "printedName": "AnimationEnum",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "BUBBLE",
+            "printedName": "BUBBLE",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.AnimationEnum.Type) -> PostFinanceSdk.AnimationEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnimationEnum",
+                    "printedName": "PostFinanceSdk.AnimationEnum",
+                    "usr": "s:14PostFinanceSdk13AnimationEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.AnimationEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnimationEnum",
+                        "printedName": "PostFinanceSdk.AnimationEnum",
+                        "usr": "s:14PostFinanceSdk13AnimationEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk13AnimationEnumO6BUBBLEyA2CmF",
+            "mangledName": "$s14PostFinanceSdk13AnimationEnumO6BUBBLEyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Var",
+            "name": "SLIDE",
+            "printedName": "SLIDE",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PostFinanceSdk.AnimationEnum.Type) -> PostFinanceSdk.AnimationEnum",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnimationEnum",
+                    "printedName": "PostFinanceSdk.AnimationEnum",
+                    "usr": "s:14PostFinanceSdk13AnimationEnumO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PostFinanceSdk.AnimationEnum.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnimationEnum",
+                        "printedName": "PostFinanceSdk.AnimationEnum",
+                        "usr": "s:14PostFinanceSdk13AnimationEnumO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:14PostFinanceSdk13AnimationEnumO5SLIDEyA2CmF",
+            "mangledName": "$s14PostFinanceSdk13AnimationEnumO5SLIDEyA2CmF",
+            "moduleName": "PostFinanceSdk"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PostFinanceSdk.AnimationEnum?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnimationEnum",
+                    "printedName": "PostFinanceSdk.AnimationEnum",
+                    "usr": "s:14PostFinanceSdk13AnimationEnumO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14PostFinanceSdk13AnimationEnumO8rawValueACSgSS_tcfc",
+            "mangledName": "$s14PostFinanceSdk13AnimationEnumO8rawValueACSgSS_tcfc",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14PostFinanceSdk13AnimationEnumO8rawValueSSvp",
+            "mangledName": "$s14PostFinanceSdk13AnimationEnumO8rawValueSSvp",
+            "moduleName": "PostFinanceSdk",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14PostFinanceSdk13AnimationEnumO8rawValueSSvg",
+                "mangledName": "$s14PostFinanceSdk13AnimationEnumO8rawValueSSvg",
+                "moduleName": "PostFinanceSdk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:14PostFinanceSdk13AnimationEnumO",
+        "mangledName": "$s14PostFinanceSdk13AnimationEnumO",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PostFinanceSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "View",
+        "printedName": "View",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "presentModalView",
+            "printedName": "presentModalView(isPresented:token:animationType:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Binding",
+                "printedName": "SwiftUI.Binding<Swift.Bool>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:7SwiftUI7BindingV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Binding",
+                "printedName": "SwiftUI.Binding<Swift.String>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:7SwiftUI7BindingV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AnimationEnum",
+                "printedName": "PostFinanceSdk.AnimationEnum",
+                "usr": "s:14PostFinanceSdk13AnimationEnumO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SwiftUI4ViewP14PostFinanceSdkE012presentModalC011isPresented5token13animationTypeQrAA7BindingVySbG_AJySSGAD13AnimationEnumOtF",
+            "mangledName": "$s7SwiftUI4ViewP14PostFinanceSdkE012presentModalC011isPresented5token13animationTypeQrAA7BindingVySbG_AJySSGAD13AnimationEnumOtF",
+            "moduleName": "PostFinanceSdk",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+            "sugared_genericSig": "<Self where Self : SwiftUI.View>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7SwiftUI4ViewP",
+        "mangledName": "$s7SwiftUI4ViewP",
+        "moduleName": "SwiftUI",
+        "genericSig": "<τ_0_0.Body : SwiftUI.View>",
+        "sugared_genericSig": "<Self.Body : SwiftUI.View>",
+        "intro_Macosx": "10.15",
+        "intro_iOS": "13.0",
+        "intro_tvOS": "13.0",
+        "intro_watchOS": "6.0",
+        "declAttributes": [
+          "TypeEraser",
+          "Available",
+          "Available",
+          "Available",
+          "Available"
+        ],
+        "isExternal": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
+      "kind": "StringLiteral",
+      "offset": 158,
+      "length": 48,
+      "value": "\"postfinance-payment-sdk-close-app-notification\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 234,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/RNScreenController.swift",
+      "kind": "Dictionary",
+      "offset": 287,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/ConsoleErrorHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 106,
+      "length": 25,
+      "value": "\"Token can not be empty!\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/ConsoleErrorHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 106,
+      "length": 25,
+      "value": "\"Token can not be empty!\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 69,
+      "length": 7,
+      "value": "\"light\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 93,
+      "length": 6,
+      "value": "\"dark\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 69,
+      "length": 7,
+      "value": "\"light\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/ThemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 93,
+      "length": 6,
+      "value": "\"dark\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 15,
+      "value": "\"twint-payment\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 378,
+      "length": 14,
+      "value": "\"twint_result\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 434,
+      "length": 27,
+      "value": "\"TWINT_EVENT_LISTENER_NAME\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 528,
+      "length": 14,
+      "value": "\"TW_B_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 564,
+      "length": 12,
+      "value": "\"TW_B_ERROR\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 606,
+      "length": 24,
+      "value": "\"TW_B_APP_NOT_INSTALLED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 659,
+      "length": 26,
+      "value": "\"TW_T_CODE_FORMAT_INVALID\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 720,
+      "length": 27,
+      "value": "\"TW_IOS_SCHEMA_URL_INVALID\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 528,
+      "length": 14,
+      "value": "\"TW_B_SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 564,
+      "length": 12,
+      "value": "\"TW_B_ERROR\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 606,
+      "length": 24,
+      "value": "\"TW_B_APP_NOT_INSTALLED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 659,
+      "length": 26,
+      "value": "\"TW_T_CODE_FORMAT_INVALID\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Twint\/TwintModule.swift",
+      "kind": "StringLiteral",
+      "offset": 720,
+      "length": 27,
+      "value": "\"TW_IOS_SCHEMA_URL_INVALID\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 166,
+      "length": 10,
+      "value": "\"CANCELED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 195,
+      "length": 8,
+      "value": "\"FAILED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 225,
+      "length": 11,
+      "value": "\"COMPLETED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 256,
+      "length": 9,
+      "value": "\"TIMEOUT\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 285,
+      "length": 9,
+      "value": "\"PENDING\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 166,
+      "length": 10,
+      "value": "\"CANCELED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 195,
+      "length": 8,
+      "value": "\"FAILED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 225,
+      "length": 11,
+      "value": "\"COMPLETED\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 256,
+      "length": 9,
+      "value": "\"TIMEOUT\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 285,
+      "length": 9,
+      "value": "\"PENDING\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalPresentationController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 494,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalPresentationController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 500,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalTransitioningDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 254,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/ModalTransitioningDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 148,
+      "length": 26,
+      "value": "\"PostFinanceSdk.ModalTransitioningDelegate\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 418,
+      "length": 4,
+      "value": "\"CH\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 454,
+      "length": 5,
+      "value": "\"CHF\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 497,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/PaymentHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 529,
+      "length": 7,
+      "value": "\"Total\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 265,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 309,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 367,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 373,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 436,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 440,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 492,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 496,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 551,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 555,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 601,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 662,
+      "length": 27,
+      "value": "\"wallee.com.PostFinanceSdk\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 740,
+      "length": 10,
+      "value": "\"RNScreen\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 817,
+      "length": 11,
+      "value": "\"rn-screen\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/GlobalEventSender\/GlobalEventSenderModule.swift",
+      "kind": "StringLiteral",
+      "offset": 188,
+      "length": 23,
+      "value": "\"PostFinanceSdk.GlobalEventSenderModule\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Helpers\/Theme.swift",
+      "kind": "BooleanLiteral",
+      "offset": 430,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 74,
+      "length": 8,
+      "value": "\"bubble\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 100,
+      "length": 7,
+      "value": "\"slide\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 74,
+      "length": 8,
+      "value": "\"bubble\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Enums\/AnimationEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 100,
+      "length": 7,
+      "value": "\"slide\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 252,
+      "length": 16,
+      "value": "\"Orange sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 277,
+      "length": 10,
+      "value": "\"sweater1\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 296,
+      "length": 2,
+      "value": "54"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 334,
+      "length": 18,
+      "value": "\"Red wine sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 361,
+      "length": 10,
+      "value": "\"sweater2\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 380,
+      "length": 2,
+      "value": "89"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 418,
+      "length": 14,
+      "value": "\"Sand sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 441,
+      "length": 10,
+      "value": "\"sweater3\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 460,
+      "length": 2,
+      "value": "79"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 498,
+      "length": 13,
+      "value": "\"Sea sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 520,
+      "length": 10,
+      "value": "\"sweater4\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 539,
+      "length": 2,
+      "value": "94"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 15,
+      "value": "\"Cream sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 601,
+      "length": 10,
+      "value": "\"sweater5\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 620,
+      "length": 2,
+      "value": "99"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 658,
+      "length": 15,
+      "value": "\"Beige sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 682,
+      "length": 10,
+      "value": "\"sweater6\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 701,
+      "length": 2,
+      "value": "65"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 739,
+      "length": 14,
+      "value": "\"Grey sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 762,
+      "length": 10,
+      "value": "\"sweater7\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 781,
+      "length": 2,
+      "value": "54"
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 819,
+      "length": 14,
+      "value": "\"Mink sweater\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 842,
+      "length": 10,
+      "value": "\"sweater8\""
+    },
+    {
+      "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/PostFinance\/PostFinanceSdk\/Modules\/Product.swift",
+      "kind": "IntegerLiteral",
+      "offset": 861,
+      "length": 2,
+      "value": "83"
+    }
+  ]
+}
