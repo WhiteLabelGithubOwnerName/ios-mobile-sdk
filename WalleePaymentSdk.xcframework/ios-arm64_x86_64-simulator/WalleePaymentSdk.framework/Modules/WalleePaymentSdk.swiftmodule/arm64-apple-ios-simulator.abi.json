@@ -575,6 +575,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "PaymentResultEnum",
         "printedName": "PaymentResultEnum",
@@ -1621,6 +1631,32 @@
           },
           {
             "kind": "Function",
+            "name": "configureDeepLink",
+            "printedName": "configureDeepLink(deepLink:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16WalleePaymentSdkAAC17configureDeepLink04deepF0ySS_tF",
+            "mangledName": "$s16WalleePaymentSdkAAC17configureDeepLink04deepF0ySS_tF",
+            "moduleName": "WalleePaymentSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "configureBaseUrl",
             "printedName": "configureBaseUrl(baseUrl:)",
             "children": [
@@ -2161,154 +2197,154 @@
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2266,
+      "offset": 2359,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2497,
+      "offset": 2590,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3757,
+      "offset": 3850,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3775,
+      "offset": 3868,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4122,
+      "offset": 4215,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4467,
+      "offset": 4560,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4483,
+      "offset": 4576,
       "length": 17,
       "value": "\"customerSchemas\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4521,
+      "offset": 4614,
       "length": 4,
       "value": "\"{}\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4527,
+      "offset": 4620,
       "length": 15,
       "value": "\"animationType\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4571,
+      "offset": 4664,
       "length": 7,
       "value": "\"slide\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4580,
+      "offset": 4673,
       "length": 28,
       "value": "\"applePayMerchantIdentifier\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4638,
+      "offset": 4731,
       "length": 9,
       "value": "\"baseUrl\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4660,
+      "offset": 4753,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4881,
+      "offset": 4974,
       "length": 54,
       "value": "\"WalleePayment.bundle\/walleepaymentsdkbundle.jsbundle\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 4990,
+      "offset": 5083,
       "length": 24,
       "value": "\"ReactNativeDevServerIP\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 5030,
+      "offset": 5123,
       "length": 11,
       "value": "\"localhost\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 5083,
+      "offset": 5176,
       "length": 54,
       "value": "\"http:\/\/\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 5105,
+      "offset": 5198,
       "length": 1,
       "value": "\":8081\/index.bundle?platform=ios\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 5522,
+      "offset": 5615,
       "length": 12,
       "value": "\"PaymentSdk\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5837,
+      "offset": 5930,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5859,
+      "offset": 5952,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6421,
+      "offset": 6514,
       "length": 4,
       "value": "true"
     },
@@ -2497,7 +2533,7 @@
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/Twint\/TwintModule.swift",
       "kind": "BooleanLiteral",
-      "offset": 5179,
+      "offset": 5347,
       "length": 4,
       "value": "true"
     },
@@ -3029,105 +3065,105 @@
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2426,
+      "offset": 2518,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3184,
+      "offset": 3267,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3246,
+      "offset": 3329,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "FloatLiteral",
-      "offset": 3305,
+      "offset": 3388,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3433,
+      "offset": 3516,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3478,
+      "offset": 3561,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4651,
+      "offset": 4734,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4657,
+      "offset": 4740,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4972,
+      "offset": 5055,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5166,
+      "offset": 5249,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5418,
+      "offset": 5501,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5555,
+      "offset": 5638,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5561,
+      "offset": 5644,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "FloatLiteral",
-      "offset": 5953,
+      "offset": 6036,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6385,
+      "offset": 6468,
       "length": 1,
       "value": "0"
     },
@@ -3911,49 +3947,49 @@
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 242,
+      "offset": 241,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 263,
+      "offset": 262,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 302,
-      "length": 21,
-      "value": "\"1999.1999.1999.1999\""
+      "offset": 301,
+      "length": 7,
+      "value": "\"1.3.0\""
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 1250,
+      "offset": 1235,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 1956,
+      "offset": 1941,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 2062,
+      "offset": 2047,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/gitlab\/builds\/wallee-payment\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 3410,
+      "offset": 3507,
       "length": 4,
       "value": "true"
     },
