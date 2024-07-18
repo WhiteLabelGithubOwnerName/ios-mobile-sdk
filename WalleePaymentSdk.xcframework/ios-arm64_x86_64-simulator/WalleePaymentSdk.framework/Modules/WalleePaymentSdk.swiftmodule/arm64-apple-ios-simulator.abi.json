@@ -2696,7 +2696,7 @@
       "kind": "StringLiteral",
       "offset": 301,
       "length": 7,
-      "value": "\"1.4.1\""
+      "value": "\"1.4.3\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",
