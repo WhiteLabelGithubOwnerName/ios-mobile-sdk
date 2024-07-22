@@ -2695,8 +2695,8 @@
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
       "offset": 301,
-      "length": 13,
-      "value": "\"1.4.666.111\""
+      "length": 15,
+      "value": "\"1.4.666.666.1\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",
