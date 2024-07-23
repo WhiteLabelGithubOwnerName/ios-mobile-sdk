@@ -575,16 +575,6 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
         "kind": "TypeDecl",
         "name": "PaymentResultEnum",
         "printedName": "PaymentResultEnum",
@@ -1593,32 +1583,6 @@
           },
           {
             "kind": "Function",
-            "name": "configureDeepLink",
-            "printedName": "configureDeepLink(deepLink:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:16WalleePaymentSdkAAC17configureDeepLink04deepF0ySS_tF",
-            "mangledName": "$s16WalleePaymentSdkAAC17configureDeepLink04deepF0ySS_tF",
-            "moduleName": "WalleePaymentSdk",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "configureBaseUrl",
             "printedName": "configureBaseUrl(baseUrl:)",
             "children": [
@@ -1851,20 +1815,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk"
       },
       {
         "kind": "Import",
@@ -2510,23 +2460,23 @@
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 241,
+      "offset": 242,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 262,
+      "offset": 263,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 301,
+      "offset": 302,
       "length": 7,
-      "value": "\"5.0.4\""
+      "value": "\"5.0.5\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",
