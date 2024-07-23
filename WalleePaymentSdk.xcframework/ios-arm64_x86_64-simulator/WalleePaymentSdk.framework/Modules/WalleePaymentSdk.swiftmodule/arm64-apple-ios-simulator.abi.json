@@ -1170,20 +1170,6 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "WalleePaymentSdk"
-      },
-      {
-        "kind": "Import",
-        "name": "ThreeDS_SDK",
-        "printedName": "ThreeDS_SDK",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
         "moduleName": "WalleePaymentSdk",
         "declAttributes": [
           "RawDocComment"
@@ -1356,30 +1342,6 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk"
-      },
-      {
-        "kind": "Import",
-        "name": "React",
-        "printedName": "React",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk"
-      },
-      {
-        "kind": "Import",
-        "name": "ThreeDS_SDK",
-        "printedName": "ThreeDS_SDK",
         "declKind": "Import",
         "moduleName": "WalleePaymentSdk"
       },
@@ -1920,19 +1882,13 @@
       },
       {
         "kind": "Import",
-        "name": "ThreeDS_SDK",
-        "printedName": "ThreeDS_SDK",
-        "declKind": "Import",
-        "moduleName": "WalleePaymentSdk"
-      },
-      {
-        "kind": "Import",
         "name": "React",
         "printedName": "React",
         "declKind": "Import",
         "moduleName": "WalleePaymentSdk",
         "declAttributes": [
-          "ImplementationOnly"
+          "ImplementationOnly",
+          "RawDocComment"
         ]
       },
       {
@@ -2391,118 +2347,6 @@
       "value": "\"APPLEPAY_EVENT_LISTENER_NAME\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 118,
-      "length": 3,
-      "value": "\"Y\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 151,
-      "length": 3,
-      "value": "\"N\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 183,
-      "length": 3,
-      "value": "\"U\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 217,
-      "length": 3,
-      "value": "\"A\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 250,
-      "length": 3,
-      "value": "\"C\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 288,
-      "length": 3,
-      "value": "\"R\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 327,
-      "length": 3,
-      "value": "\"D\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 368,
-      "length": 3,
-      "value": "\"I\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 118,
-      "length": 3,
-      "value": "\"Y\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 151,
-      "length": 3,
-      "value": "\"N\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 183,
-      "length": 3,
-      "value": "\"U\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 217,
-      "length": 3,
-      "value": "\"A\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 250,
-      "length": 3,
-      "value": "\"C\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 288,
-      "length": 3,
-      "value": "\"R\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 327,
-      "length": 3,
-      "value": "\"D\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 368,
-      "length": 3,
-      "value": "\"I\""
-    },
-    {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ModalPresentationController.swift",
       "kind": "BooleanLiteral",
       "offset": 305,
@@ -2664,20 +2508,6 @@
       "value": "\"WalleePaymentSdk.GlobalEventSenderModule\""
     },
     {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSPaymentHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 275,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSPaymentHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 306,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
       "offset": 241,
@@ -2696,7 +2526,7 @@
       "kind": "StringLiteral",
       "offset": 301,
       "length": 7,
-      "value": "\"5.0.3\""
+      "value": "\"5.0.4\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",
@@ -2708,112 +2538,112 @@
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 316,
       "length": 17,
       "value": "\"THREEDS_SUCCESS\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 353,
+      "offset": 355,
       "length": 15,
       "value": "\"THREEDS_ERROR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 394,
+      "offset": 396,
       "length": 19,
       "value": "\"THREEDS_CANCELLED\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 437,
+      "offset": 439,
       "length": 17,
       "value": "\"THREEDS_TIMEOUT\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 485,
+      "offset": 487,
       "length": 24,
       "value": "\"THREEDS_PROTOCOL_ERROR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 539,
+      "offset": 541,
       "length": 23,
       "value": "\"THREEDS_RUNTIME_ERROR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 316,
       "length": 17,
       "value": "\"THREEDS_SUCCESS\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 353,
+      "offset": 355,
       "length": 15,
       "value": "\"THREEDS_ERROR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 394,
+      "offset": 396,
       "length": 19,
       "value": "\"THREEDS_CANCELLED\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 437,
+      "offset": 439,
       "length": 17,
       "value": "\"THREEDS_TIMEOUT\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 485,
+      "offset": 487,
       "length": 24,
       "value": "\"THREEDS_PROTOCOL_ERROR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 539,
+      "offset": 541,
       "length": 23,
       "value": "\"THREEDS_RUNTIME_ERROR\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 610,
+      "offset": 612,
       "length": 16,
       "value": "\"threeds_result\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 670,
+      "offset": 672,
       "length": 29,
       "value": "\"THREEDS_EVENT_LISTENER_NAME\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 746,
+      "offset": 748,
       "length": 23,
       "value": "\"THREEDS_ERROR_MESSAGE\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "BooleanLiteral",
-      "offset": 848,
+      "offset": 852,
       "length": 5,
       "value": "false"
     },
