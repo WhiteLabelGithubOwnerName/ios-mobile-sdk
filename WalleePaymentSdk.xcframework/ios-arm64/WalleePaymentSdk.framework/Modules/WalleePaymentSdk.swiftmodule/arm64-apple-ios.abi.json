@@ -1427,57 +1427,6 @@
         "printedName": "WalleePaymentSdk",
         "children": [
           {
-            "kind": "Var",
-            "name": "SDK_VERSION",
-            "printedName": "SDK_VERSION",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:16WalleePaymentSdkAAC11SDK_VERSIONSSvpZ",
-            "mangledName": "$s16WalleePaymentSdkAAC11SDK_VERSIONSSvpZ",
-            "moduleName": "WalleePaymentSdk",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:16WalleePaymentSdkAAC11SDK_VERSIONSSvgZ",
-                "mangledName": "$s16WalleePaymentSdkAAC11SDK_VERSIONSSvgZ",
-                "moduleName": "WalleePaymentSdk",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
             "kind": "Function",
             "name": "onHandleOpenURL",
             "printedName": "onHandleOpenURL(url:)",
@@ -1579,40 +1528,6 @@
             "declKind": "Func",
             "usr": "s:16WalleePaymentSdkAAC17configureApplePay10merchantIdySS_tF",
             "mangledName": "$s16WalleePaymentSdkAAC17configureApplePay10merchantIdySS_tF",
-            "moduleName": "WalleePaymentSdk",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "configureBaseUrl",
-            "printedName": "configureBaseUrl(baseUrl:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:16WalleePaymentSdkAAC16configureBaseUrl04baseF0ySSSg_tF",
-            "mangledName": "$s16WalleePaymentSdkAAC16configureBaseUrl04baseF0ySSSg_tF",
             "moduleName": "WalleePaymentSdk",
             "declAttributes": [
               "AccessControl"
@@ -2085,14 +2000,14 @@
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 305,
+      "offset": 280,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "Dictionary",
-      "offset": 355,
+      "offset": 330,
       "length": 3,
       "value": "[]"
     },
@@ -2564,20 +2479,6 @@
       "offset": 242,
       "length": 2,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
-      "kind": "StringLiteral",
-      "offset": 263,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
-      "kind": "StringLiteral",
-      "offset": 302,
-      "length": 11,
-      "value": "\"1.4.5.999\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",
