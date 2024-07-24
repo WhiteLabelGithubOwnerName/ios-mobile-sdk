@@ -2098,21 +2098,21 @@
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "BooleanLiteral",
-      "offset": 229,
+      "offset": 230,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "StringLiteral",
-      "offset": 305,
+      "offset": 306,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/RNScreenController.swift",
       "kind": "Dictionary",
-      "offset": 355,
+      "offset": 356,
       "length": 3,
       "value": "[]"
     },
