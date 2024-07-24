@@ -53,10 +53,12 @@ public struct PaymentResult {
   public var message: Swift.String?
 }
 public class WalleePaymentSdk {
+  public static let SDK_VERSION: Swift.String
   public static func onHandleOpenURL(url: Foundation.URL) -> Swift.Bool
   public init(eventObserver: any WalleePaymentResultObserver)
   public func launchPayment(token: Swift.String)
   public func configureApplePay(merchantId: Swift.String)
+  public func configureBaseUrl(baseUrl: Swift.String?)
   @available(iOS 13.0, *)
   public func launchPayment(token: Swift.String, isSwiftUI: Swift.Bool)
   public func close()
