@@ -1346,8 +1346,7 @@
         "declKind": "Import",
         "moduleName": "WalleePaymentSdk",
         "declAttributes": [
-          "ImplementationOnly",
-          "RawDocComment"
+          "ImplementationOnly"
         ]
       },
       {
@@ -1743,8 +1742,7 @@
         "declKind": "Import",
         "moduleName": "WalleePaymentSdk",
         "declAttributes": [
-          "ImplementationOnly",
-          "RawDocComment"
+          "ImplementationOnly"
         ]
       },
       {
@@ -2292,112 +2290,112 @@
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 281,
+      "offset": 99,
       "length": 3,
       "value": "\"Y\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 132,
       "length": 3,
       "value": "\"N\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 346,
+      "offset": 164,
       "length": 3,
       "value": "\"U\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 380,
+      "offset": 198,
       "length": 3,
       "value": "\"A\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 413,
+      "offset": 231,
       "length": 3,
       "value": "\"C\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 451,
+      "offset": 269,
       "length": 3,
       "value": "\"R\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 490,
+      "offset": 308,
       "length": 3,
       "value": "\"D\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 531,
+      "offset": 349,
       "length": 3,
       "value": "\"I\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 281,
+      "offset": 99,
       "length": 3,
       "value": "\"Y\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 132,
       "length": 3,
       "value": "\"N\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 346,
+      "offset": 164,
       "length": 3,
       "value": "\"U\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 380,
+      "offset": 198,
       "length": 3,
       "value": "\"A\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 413,
+      "offset": 231,
       "length": 3,
       "value": "\"C\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 451,
+      "offset": 269,
       "length": 3,
       "value": "\"R\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 490,
+      "offset": 308,
       "length": 3,
       "value": "\"D\""
     },
     {
       "filePath": "\/Users\/irapaliy\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ChallengeStatusHandler.swift",
       "kind": "StringLiteral",
-      "offset": 531,
+      "offset": 349,
       "length": 3,
       "value": "\"I\""
     },
