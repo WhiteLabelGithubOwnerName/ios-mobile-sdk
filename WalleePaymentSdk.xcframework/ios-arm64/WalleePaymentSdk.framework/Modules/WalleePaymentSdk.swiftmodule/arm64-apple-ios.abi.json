@@ -1395,6 +1395,13 @@
       },
       {
         "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1922,6 +1929,13 @@
         "kind": "Import",
         "name": "ThreeDS_SDK",
         "printedName": "ThreeDS_SDK",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
         "declKind": "Import",
         "moduleName": "WalleePaymentSdk"
       },
@@ -2703,14 +2717,14 @@
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSPaymentHandler.swift",
       "kind": "StringLiteral",
-      "offset": 275,
+      "offset": 289,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSPaymentHandler.swift",
       "kind": "StringLiteral",
-      "offset": 306,
+      "offset": 320,
       "length": 2,
       "value": "\"\""
     },
@@ -2745,112 +2759,112 @@
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 327,
       "length": 17,
       "value": "\"THREEDS_SUCCESS\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 353,
+      "offset": 366,
       "length": 15,
       "value": "\"THREEDS_ERROR\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 394,
+      "offset": 407,
       "length": 19,
       "value": "\"THREEDS_CANCELLED\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 437,
+      "offset": 450,
       "length": 17,
       "value": "\"THREEDS_TIMEOUT\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 485,
+      "offset": 498,
       "length": 24,
       "value": "\"THREEDS_PROTOCOL_ERROR\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 539,
+      "offset": 552,
       "length": 23,
       "value": "\"THREEDS_RUNTIME_ERROR\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 327,
       "length": 17,
       "value": "\"THREEDS_SUCCESS\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 353,
+      "offset": 366,
       "length": 15,
       "value": "\"THREEDS_ERROR\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 394,
+      "offset": 407,
       "length": 19,
       "value": "\"THREEDS_CANCELLED\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 437,
+      "offset": 450,
       "length": 17,
       "value": "\"THREEDS_TIMEOUT\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 485,
+      "offset": 498,
       "length": 24,
       "value": "\"THREEDS_PROTOCOL_ERROR\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 539,
+      "offset": 552,
       "length": 23,
       "value": "\"THREEDS_RUNTIME_ERROR\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 610,
+      "offset": 623,
       "length": 16,
       "value": "\"threeds_result\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 670,
+      "offset": 683,
       "length": 29,
       "value": "\"THREEDS_EVENT_LISTENER_NAME\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "StringLiteral",
-      "offset": 746,
+      "offset": 759,
       "length": 23,
       "value": "\"THREEDS_ERROR_MESSAGE\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSModule.swift",
       "kind": "BooleanLiteral",
-      "offset": 848,
+      "offset": 861,
       "length": 5,
       "value": "false"
     },
