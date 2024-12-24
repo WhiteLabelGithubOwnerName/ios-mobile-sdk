@@ -5,7 +5,6 @@ import AVFoundation
 import Combine
 import Foundation
 import PassKit
-import Sentry
 import Swift
 import SwiftUI
 import ThreeDS_SDK
