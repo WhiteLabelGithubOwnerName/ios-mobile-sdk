@@ -2747,7 +2747,7 @@
       "kind": "StringLiteral",
       "offset": 301,
       "length": 10,
-      "value": "\"1.4.0.13\""
+      "value": "\"1.4.0.14\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",
