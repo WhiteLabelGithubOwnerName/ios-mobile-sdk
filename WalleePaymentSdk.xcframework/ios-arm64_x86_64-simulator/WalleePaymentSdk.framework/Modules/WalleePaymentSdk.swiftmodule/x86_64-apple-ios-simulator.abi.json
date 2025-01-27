@@ -1443,6 +1443,16 @@
       },
       {
         "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1455,6 +1465,13 @@
         "kind": "Import",
         "name": "ThreeDS_SDK",
         "printedName": "ThreeDS_SDK",
+        "declKind": "Import",
+        "moduleName": "WalleePaymentSdk"
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
         "declKind": "Import",
         "moduleName": "WalleePaymentSdk"
       },
@@ -2753,9 +2770,16 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Utils\/ProdLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 279,
+      "length": 9,
+      "value": "\"threeDS\""
+    },
+    {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Modules\/ThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 297,
+      "offset": 310,
       "length": 5,
       "value": "false"
     },
@@ -2778,7 +2802,7 @@
       "kind": "StringLiteral",
       "offset": 301,
       "length": 8,
-      "value": "\"1.4.15\""
+      "value": "\"1.4.16\""
     },
     {
       "filePath": "\/Users\/gitlabrunner\/builds\/VwLiCsV2_\/0\/frontend\/mobile-sdk-android\/ios\/WalleePaymentSdk\/Helpers\/Theme.swift",

@@ -4,6 +4,7 @@
 import AVFoundation
 import Combine
 import Foundation
+import OSLog
 import PassKit
 import Sentry
 import Swift
