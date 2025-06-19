@@ -9,7 +9,6 @@ import OSLog
 import PassKit
 import Swift
 import SwiftUI
-import ThreeDS_SDK
 import TwintSDK
 import UIKit
 @_exported import WalleePaymentSdk
